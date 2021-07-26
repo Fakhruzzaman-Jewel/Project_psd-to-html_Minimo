@@ -1,0 +1,24 @@
+psd to html
+
+font
+	download not cdn
+
+fonr used from free or premium
+
+ui ux
+
+user interface; user experience
+
+	color- 2/3 
+	typography- 2/3 fonts
+	consistancy
+	spacing
+
+/*font-family: 'Playfair Display', serif;*/
+/*font-family: 'Ubuntu', sans-serif;*/
+
+color
+
+black	#000000
+ash		#626262
+		#b4ad9e
